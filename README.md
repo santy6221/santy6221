@@ -19,20 +19,11 @@
 
 ## Mis proyectos destacados
 
-- [Proyecto 1](enlace-al-proyecto-1): Breve descripción o resumen del proyecto y su relevancia.
+- [WAWY](enlace-al-proyecto-1): Breve descripción o resumen del proyecto y su relevancia.
 - [Proyecto 2](enlace-al-proyecto-2): Breve descripción o resumen del proyecto y su relevancia.
 - [Proyecto 3](enlace-al-proyecto-3): Breve descripción o resumen del proyecto y su relevancia.
 
 ¡No dudes en explorar mis repositorios para conocer más sobre mis proyectos y contribuciones en GitHub!
-
-## Contáctame
-
-- 📧 Correo electrónico: srt6221@gmail.com
-- 💼 LinkedIn: [Santiago R](enlace-a-tu-perfil-de-LinkedIn)
-
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones en GitHub. No dudes en contactarme si deseas colaborar o tienes alguna pregunta.
-
-
 
 
 ## Lenguajes y herramientas que uso  
@@ -59,8 +50,13 @@
 </div>  
 
 
+## Contáctame
 
+- 📧 Correo electrónico: srt6221@gmail.com
+- 💼 LinkedIn: [Santiago Rodriguez](https://www.linkedin.com/in/santiago-rodriguez-a6b090215/)
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones en GitHub. No dudes en contactarme si deseas colaborar o tienes alguna pregunta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg1Njc0NDYsMTM2ODU5OTU1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMjYyMTM0ODUxLDEzNjg1OTk1NSw3MzA5OT
+gxMTZdfQ==
 -->
