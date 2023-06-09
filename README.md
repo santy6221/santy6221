@@ -20,7 +20,7 @@
 ## Mis proyectos destacados
 
 - [WAWY](https://github.com/santy6221/WawyProject): API para la web morfi, una web de reserva en restaurantes de argentina.
-- [NCBack](https://github.com/santy6221/NCback): Breve descripción o resumen del proyecto y su relevancia.
+- [NCBack](https://github.com/santy6221/NCback): Proyecto de ia que implementa un chatbot creado en rasa.
 
 ¡No dudes en explorar mis repositorios para conocer más sobre mis proyectos y contribuciones en GitHub!
 
@@ -56,6 +56,6 @@
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones en GitHub. No dudes en contactarme si deseas colaborar o tienes alguna pregunta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODcwNTQ5NSwtMzAzNjMwNDg2LDE0MD
+eyJoaXN0b3J5IjpbLTU3NzQ0MjU5MCwtMzAzNjMwNDg2LDE0MD
 U1MjMyMzUsMTM2ODU5OTU1LDczMDk5ODExNl19
 -->
