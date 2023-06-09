@@ -19,7 +19,7 @@
 
 ## Mis proyectos destacados
 
-- [WAWY](enlace-al-proyecto-1): Breve descripción o resumen del proyecto y su relevancia.
+- [WAWY](https://github.com/santy6221/WawyProject): Breve descripción o resumen del proyecto y su relevancia.
 - [NCBack](https://github.com/santy6221/NCback): Breve descripción o resumen del proyecto y su relevancia.
 - [Proyecto 3](enlace-al-proyecto-3): Breve descripción o resumen del proyecto y su relevancia.
 
@@ -57,6 +57,6 @@
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones en GitHub. No dudes en contactarme si deseas colaborar o tienes alguna pregunta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDI3ODEzMiwxNDA1NTIzMjM1LDEzNj
+eyJoaXN0b3J5IjpbLTMwMzYzMDQ4NiwxNDA1NTIzMjM1LDEzNj
 g1OTk1NSw3MzA5OTgxMTZdfQ==
 -->
