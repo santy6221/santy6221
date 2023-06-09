@@ -1,7 +1,7 @@
 
 # ¡Buenas! bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy Santiago, un apasionado desarrollador de software con experiencia en el desarrollo web y un enfoque en el stack MERN (MongoDB, Express.js, React.js, Node.js). Me encanta crear aplicaciones web y soluciones tecnológicas innovadoras.
+¡Hola! Soy Santiago, un apasionado desarrollador de software con experiencia en el desarrollo web y un enfoque en el stack MERN (MongoDB, Express.js, React.js, Node.js). Me encanta el desarrollo  web y las soluciones tecnológicas innovadoras.
 
 ## Sobre mí  
 - 💻 Apasionado por el desarrollo backend y la arquitectura de sistemas. 
@@ -57,6 +57,6 @@
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones en GitHub. No dudes en contactarme si deseas colaborar o tienes alguna pregunta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMTM0ODUxLDEzNjg1OTk1NSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQwNTUyMzIzNSwxMzY4NTk5NTUsNzMwOT
+k4MTE2XX0=
 -->
