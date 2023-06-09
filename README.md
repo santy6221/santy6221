@@ -59,7 +59,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -100,36 +100,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
 </div>  
 
-<br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkyNzU3MDksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4Njg2OTE5MjUsNzMwOTk4MTE2XX0=
 -->
