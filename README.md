@@ -1,7 +1,7 @@
 
-# ¡Ba mi perfil de GitHub! 👋
+# ¡Buenas! bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software con experiencia en el desarrollo web y un enfoque en el stack MERN (MongoDB, Express.js, React.js, Node.js). Me encanta crear aplicaciones web y soluciones tecnológicas innovadoras.
+¡Hola! Soy Santiago, un apasionado desarrollador de software con experiencia en el desarrollo web y un enfoque en el stack MERN (MongoDB, Express.js, React.js, Node.js). Me encanta crear aplicaciones web y soluciones tecnológicas innovadoras.
 
 ## Sobre mí
 
@@ -62,6 +62,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYyODI1MjQsMTM2ODU5OTU1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTI2NTMwMTU0NSwxMzY4NTk5NTUsNzMwOT
+k4MTE2XX0=
 -->
