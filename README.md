@@ -3,12 +3,11 @@
 
 ¡Hola! Soy Santiago, un apasionado desarrollador de software con experiencia en el desarrollo web y un enfoque en el stack MERN (MongoDB, Express.js, React.js, Node.js). Me encanta crear aplicaciones web y soluciones tecnológicas innovadoras.
 
-## Sobre mí
-
-- 💻 Apasionado por la programación y la resolución de problemas.
-- 🌱 Siempre aprendiendo y manteniéndome al día con las últimas tecnologías.
-- 👯 Busco colaborar en proyectos interesantes y desafiantes.
-- 🚀 Me gusta compartir mi conocimiento a través de blogs y tutoriales.
+## Sobre mí  
+- 💻 Apasionado por el desarrollo backend y la arquitectura de sistemas. 
+- 🌱 Siempre aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades. 
+- 👯 Busco colaborar en proyectos desafiantes que requieran experiencia en el desarrollo backend. 
+- 🚀 Me gusta compartir mi conocimiento a través de blogs y tutoriales centrados en el backend.
 
 ## Mis habilidades técnicas
 
@@ -28,8 +27,8 @@
 
 ## Contáctame
 
-- 📧 Correo electrónico: tuemail@example.com
-- 💼 LinkedIn: [Tu Perfil de LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
+- 📧 Correo electrónico: srt6221@gmail.com
+- 💼 LinkedIn: [Santiago R](enlace-a-tu-perfil-de-LinkedIn)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones en GitHub. No dudes en contactarme si deseas colaborar o tienes alguna pregunta.
 
@@ -62,6 +61,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTMwMTU0NSwxMzY4NTk5NTUsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwNzg1Njc0NDYsMTM2ODU5OTU1LDczMD
+k5ODExNl19
 -->
