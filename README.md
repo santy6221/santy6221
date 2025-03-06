@@ -51,6 +51,7 @@
 
 ## Contáctame
 
+- Mi web personal: https://santy6221.github.io/
 - 📧 Correo electrónico: srt6221@gmail.com
 - 💼 LinkedIn: [Santiago Rodriguez](https://www.linkedin.com/in/santiago-rodriguez-a6b090215/)
 
